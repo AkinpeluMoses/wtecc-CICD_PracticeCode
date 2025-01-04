@@ -1,6 +1,10 @@
 # Werkzeug keeps breaking Flask!
 Werkzeug==2.1.2
 
+flask==2.0.3
+requests==2.27.1
+
+
 # Runtime dependencies
 Flask==2.1.2
 python-dotenv==0.20.0
